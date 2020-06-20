@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E9FFD023249DC1D40015AF0B /* Swift5CountUp1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swift5CountUp1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E9FFD023249DC1D40015AF0B /* カウントアップ.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "カウントアップ.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9FFD026249DC1D40015AF0B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E9FFD028249DC1D40015AF0B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		E9FFD02A249DC1D40015AF0B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		E9FFD024249DC1D40015AF0B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E9FFD023249DC1D40015AF0B /* Swift5CountUp1.app */,
+				E9FFD023249DC1D40015AF0B /* カウントアップ.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = Swift5CountUp1;
 			productName = Swift5CountUp1;
-			productReference = E9FFD023249DC1D40015AF0B /* Swift5CountUp1.app */;
+			productReference = E9FFD023249DC1D40015AF0B /* カウントアップ.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -291,7 +291,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.swiftapp.Swift5CountUp1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "カウントアップ";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -308,7 +308,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.swiftapp.Swift5CountUp1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "カウントアップ";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
